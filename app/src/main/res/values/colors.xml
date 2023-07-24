@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2175F3</color>
+    <color name="colorPrimaryDark">#020C01</color>
+    <color name="colorAccent">#D68000</color>
+    <color name="color_nav_drawer">#041D9E</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorGris">#87939A</color>
+    <color name="colorGreen">#02D518</color>
+    <color name="colortitulo">#FF9800</color>
+
+
+    <color name="startblue">#004BCD</color>
+    <color name="endblue">#018EFF</color>
+    <color name="colorPrimer">#055799</color>
+    <color name="colorAcert">#B11DAE</color>
+    <color name="colorBlack">#000000</color>
+    <color name="plomo">#C7CACA</color>
+    <color name="medionegro">#555355</color>
+
+</resources>

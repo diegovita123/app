@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation"-->
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_servicios"
+            android:icon="@drawable/ic_car"
+            android:title="@string/servicios" />
+
+        <item
+            android:id="@+id/nav_solicitudes"
+            android:icon="@drawable/ic_solicitud"
+            android:title="@string/solicitud" />
+
+        <item
+            android:id="@+id/nav_cotizaciones"
+            android:icon="@drawable/ic_cotizaciones"
+            android:title="@string/cotizaciones" />
+        <item
+            android:id="@+id/nav_facturas"
+            android:icon="@drawable/ic_fac"
+            android:title="@string/facturas" />
+    </group>
+
+
+    <item android:title="Mas">
+        <menu>
+            <item
+            android:id="@+id/nav_mas"
+            android:icon="@drawable/ic_fac"
+            android:title="@string/mas" />
+            <item
+                android:id="@+id/nav_sesion"
+                android:icon="@drawable/ic_close"
+                android:title="Cerar Sesión" />
+
+        </menu>
+    </item>
+
+
+</menu>

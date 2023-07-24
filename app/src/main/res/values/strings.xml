@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">rentaFlorV1</string>
+    <string name="home">Home</string>
+    <string name="servicios">Servicios</string>
+    <string name="solicitud">Solicitud</string>
+    <string name="cotizaciones">Cotizaciones</string>
+    <string name="facturas">Facturas</string>
+
+    <string name="mas">Mas</string>
+
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="sms_error_de_coneccion">No se pudo conectar</string>
+    <string name="agercar_sms_exito">Se Agrego con Exito</string>
+    <string name="actualizar_sms_error">Ocurrio un Error</string>
+    <string name="btn_volver">volver</string>
+    <string name="btn_solicitar">Solicitar</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="actializar_sms_exito">Se a Actualizado con exito</string>
+    <string name="Eliminar_sms_exito">Se Canceló su Solicitud</string>
+    <string name="Eliminar_sms_no_existe">El Campo no Exixte</string>
+    <string name="Elimina_sms_Error">No se pudo eliminar</string>
+
+
+    <string name="descripcionHorario1">El servicio de Arrendamiento de vehículo, se realiza y valoriza
+por día calendario. (a partir de las 06:00 hasta las 22:00</string>
+    <string name="descripcionHorario2">En caso de exceder el horario de fin de servicio se
+considerará un día adicional de servicio.</string>
+    <string name="textoFinalizarServicio">Al día siguiente de finalizar el servicio se realiza una valorización con el monto total del
+viaje, la cual se la enviaremos por correo para su aprobación, dicha aprobación u
+observaciones no deben exceder de 3 días hábiles.
+</string>
+
+</resources>
