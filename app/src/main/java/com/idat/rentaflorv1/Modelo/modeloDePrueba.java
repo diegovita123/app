@@ -33,10 +33,10 @@ public class modeloDePrueba {
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (!(o instanceof modeloDePrueba)) return false;
-        modeloDePrueba that = (modeloDePrueba) o;
+        if (!(o instanceof modeloDeprueba)) return false;
+        modeloDePrueba that = (modeloDeprueba) o;
         return getCodigo() == that.getCodigo() &&
-                Objects.equals(getNombre(), that.getNombre());
+                Objects.equals(getNombre(), that.getnombre());
     }
 
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
