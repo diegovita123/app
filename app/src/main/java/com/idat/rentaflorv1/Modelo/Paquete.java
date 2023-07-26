@@ -6,7 +6,21 @@ public class Paquete {
 
     public Paquete() {
     }
+private int id_cliente;
+    private String nombres;
+    private String empresa;
 
+    public LoginCliente(int id_cliente, String nombres, String empresa) {
+        this.id_cliente = id_cliente;
+        this.nombres = nombres;
+        this.empresa = empresa;
+    }
+
+    public LoginCliente() {
+    }
+
+    public int getId_cliente() {
+        return id_cliente;
     public Paquete(int id, String descripcion) {
         this.id = id;
         this.descripcion = descripcion;
