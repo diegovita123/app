@@ -15,3 +15,11 @@ public class ExampleUnitTest {
         assertEquals(4, 2 + 2);
     }
 }
+
+
+public class SumNumUnitTest {
+    @Test
+    public void addition_isCorrect() {
+        assertEquals(8, 4 + 4);
+    }
+}
